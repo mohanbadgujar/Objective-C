@@ -5,7 +5,7 @@
     Created by BridgeLabz Solutions LLP  on 2/6/17.
     Copyright © 2017 BridgeLabz Solutions LLP . All rights reserved.
 
-    Problem Statement -
+    -----------------------------Problem Statement 2--------------------------------------
  
     Flip Coin and print percentage of Heads and Tails
     I/P -> The number of times to Flip Coin. Ensure it is positive integer.
